@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nicole
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning to program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to progra
+- 📫 Meu email de contato é nicole.viepsz.souza@escola.pr.gov.br
 
 <!---
 Viepsz/Viepsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
