@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicole
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning to program
+- 👋 Me chamo Nicole
+- 👀 Sou interessada em música e em programar
+- 🌱 Atualmente estou aprendendo a programar
 - 📫 Meu email de contato é nicole.viepsz.souza@escola.pr.gov.br
 
 <!---
